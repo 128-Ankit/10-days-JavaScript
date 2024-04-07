@@ -1,1 +1,1 @@
-<h1>Compliting JavaScript in 10 Days</h1>
+<h1>10 Days of JavaScript Mastery-</h1>
